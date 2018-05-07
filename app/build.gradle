@@ -1,3 +1,5 @@
+AppCenter.setLogLevel(Log.VERBOSE);
+
 dependencies {
     def appCenterSdkVersion = '1.5.0'
     compile "com.microsoft.appcenter:appcenter-analytics:${appCenterSdkVersion}"
