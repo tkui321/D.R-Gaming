@@ -1,0 +1,15 @@
+﻿{
+  "name": "★★𝓨𝓪𝓻𝓲𝓷★★",
+  "version": "1.0.0",
+  "description": "★★𝓨𝓪𝓻𝓲𝓷★★",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "opusscript": "0.0.6"
+  }
+}
